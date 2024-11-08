@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL Players Update.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL_Players.Form1.resources
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL_Players_Update.Properties.Resources.resources
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL Players Update.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL Players Update.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\bin\Debug\NHL Players Update.exe.config
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\bin\Debug\NHL Players Update.exe
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\bin\Debug\NHL Players Update.pdb
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL Players Update.exe
+C:\Users\Hp\source\repos\NHL Players Update\NHL Players Update\obj\Debug\NHL Players Update.pdb
